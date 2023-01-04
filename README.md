@@ -15,7 +15,7 @@ The board would like to have a better understanding of the company's growth stor
 * Pull session to order conversion rates, by month.
 * Estimate the revenue that the A/B testing  from June 19th to July,28th using nonbrans sessions and revenue. Calculate the incremental value.
 * Show a full conversion funnel from each of the two pages to orders.
-* Quantify the impact of our billing test. Analyze the lift generated from September 10th to Novenber 10th in terms of revenue per billing page session.
+* Quantify the impact of our billing test. Analyze the lift generated from September 10th to November 10th in terms of revenue per billing page session.
 
 ## Tool
 * MySQL.
